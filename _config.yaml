@@ -1,0 +1,13 @@
+title: Pokedex
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+baseurl: /pokedex
+
+search_enabled: true
+auto_page_title: true
+mermaid_theme: default
+
+sidebar:
+  - label: p2p
+    children:
+    - libp2p
+    - p2p_deoxys
